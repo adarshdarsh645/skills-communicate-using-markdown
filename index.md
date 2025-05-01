@@ -5,3 +5,6 @@
 # <h5>adarsh</h5>
 # <h6>adarsh</h6>
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+``` javascript
+var myVar = "Hello, world!";
+```
